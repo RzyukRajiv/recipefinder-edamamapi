@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipefinder-edamamapi/static/css/main.407945fd.css",
+    "main.js": "/recipefinder-edamamapi/static/js/main.7219da3a.js",
+    "index.html": "/recipefinder-edamamapi/index.html",
+    "main.407945fd.css.map": "/recipefinder-edamamapi/static/css/main.407945fd.css.map",
+    "main.7219da3a.js.map": "/recipefinder-edamamapi/static/js/main.7219da3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407945fd.css",
+    "static/js/main.7219da3a.js"
+  ]
+}
